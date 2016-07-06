@@ -20,3 +20,5 @@ Google has provided us with an example on how to read the data from Google sprea
 https://developers.google.com/sheets/quickstart/php
 
 Also to understand the API better do check out the API explorer https://developers.google.com/apis-explorer/#p/
+
+Do share the spreadsheet the service account email address
